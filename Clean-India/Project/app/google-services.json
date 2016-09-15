@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "565562781202",
+    "firebase_url": "https://pinak-cleanindia.firebaseio.com",
+    "project_id": "pinak-cleanindia",
+    "storage_bucket": "pinak-cleanindia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565562781202:android:007cea35083102fb",
+        "android_client_info": {
+          "package_name": "examples.csci567.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565562781202-du35l7ttvac571iiv4mo12lq0dsrsb1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "examples.csci567.project",
+            "certificate_hash": "39312728AA3C63DA75363ABF70CECE7C38E20E33"
+          }
+        },
+        {
+          "client_id": "565562781202-cjj6pboo9lsmip8qb6g02147hvkjedgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "examples.csci567.project",
+            "certificate_hash": "0670243AFEA165D4A42791F0629C87BD1365071C"
+          }
+        },
+        {
+          "client_id": "565562781202-rajfg07f4vidds9ula1a69t9kqhg6q7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe0sDGErqn4hUjpzLmYIyeojGUkuk9VZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565562781202-rajfg07f4vidds9ula1a69t9kqhg6q7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

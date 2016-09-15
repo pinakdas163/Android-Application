@@ -1,0 +1,16 @@
+                               Android App “Clean India” step by step
+To test the android app:
+1)	Login to the CleanIndia app using google account. Your account info will be saved in the firebase.
+2)	View the map and your current location.
+3)	Click the button ‘report location’. This will create a geofence of 100 m radius in that
+location.
+4)	Notice the notification appearing, it shows that the address info is saved in firebase successfully.
+5)	Any user of CleanIndia app will receive notification whenever they are entering or inside that geofence.
+Modify firebase data to test CleanIndia app functionality:
+1)	Login to firebase using test google account:
+Emailid: moderator.firebase@gmail.com
+Password: thispasswordisnotsimple
+2)	Check the database:
+ 
+3)	Delete particular address eg: “801 East Ave Chico,CA 95926” under Garbage parent and the user linked with the address eg:  “801 East Ave Chico, CA 95926: Aditya Joshi” under Garbage_Informer. 
+4)	Deleting the location will remove the geofence of that particular address from the app and deleting garbage informer for that location will trigger notification to that user only.
